@@ -1,0 +1,17 @@
+/home/ivan/workspace/odsi/leshan/leshan-server-cluster/src/main/java/org/eclipse/leshan/server/cluster/serialization/DownlinkRequestSerDes.java
+/home/ivan/workspace/odsi/leshan/leshan-server-cluster/src/main/java/org/eclipse/leshan/server/cluster/RedisRequestResponseHandler.java
+/home/ivan/workspace/odsi/leshan/leshan-server-cluster/src/main/java/org/eclipse/leshan/server/cluster/RedisRegistrationStore.java
+/home/ivan/workspace/odsi/leshan/leshan-server-cluster/src/main/java/org/eclipse/leshan/server/cluster/serialization/ValueSerDes.java
+/home/ivan/workspace/odsi/leshan/leshan-server-cluster/src/main/java/org/eclipse/leshan/server/cluster/serialization/IdentitySerDes.java
+/home/ivan/workspace/odsi/leshan/leshan-server-cluster/src/main/java/org/eclipse/leshan/server/cluster/serialization/ResponseSerDes.java
+/home/ivan/workspace/odsi/leshan/leshan-server-cluster/src/main/java/org/eclipse/leshan/server/cluster/serialization/RegistrationSerDes.java
+/home/ivan/workspace/odsi/leshan/leshan-server-cluster/src/main/java/org/eclipse/leshan/server/cluster/serialization/SecurityInfoSerDes.java
+/home/ivan/workspace/odsi/leshan/leshan-server-cluster/src/main/java/org/eclipse/leshan/server/cluster/serialization/LwM2mNodeSerDes.java
+/home/ivan/workspace/odsi/leshan/leshan-server-cluster/src/main/java/org/eclipse/leshan/server/cluster/RedisTokenHandler.java
+/home/ivan/workspace/odsi/leshan/leshan-server-cluster/src/main/java/org/eclipse/leshan/server/cluster/serialization/RegistrationUpdateSerDes.java
+/home/ivan/workspace/odsi/leshan/leshan-server-cluster/src/main/java/org/eclipse/leshan/server/cluster/serialization/EndpointContextSerDes.java
+/home/ivan/workspace/odsi/leshan/leshan-server-cluster/src/main/java/org/eclipse/leshan/server/cluster/RedisLock.java
+/home/ivan/workspace/odsi/leshan/leshan-server-cluster/src/main/java/org/eclipse/leshan/server/cluster/RedisRegistrationEventPublisher.java
+/home/ivan/workspace/odsi/leshan/leshan-server-cluster/src/main/java/org/eclipse/leshan/server/cluster/RedisSecurityStore.java
+/home/ivan/workspace/odsi/leshan/leshan-server-cluster/src/main/java/org/eclipse/leshan/server/cluster/serialization/ObservationSerDes.java
+/home/ivan/workspace/odsi/leshan/leshan-server-cluster/src/main/java/org/eclipse/leshan/server/cluster/LeshanClusterServer.java

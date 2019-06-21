@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LWM2M  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://openmobilealliance.org/tech/profiles/LWM2M.xsd">
+    <Object ObjectType="MODefinition">
+        <Name>M3Comm</Name>
+        <Description1>M3 Communication Object.
+        </Description1>
+        <ObjectID>31025</ObjectID>
+        <ObjectURN>urn:oma:lwm2m:x:31025</ObjectURN>
+        <MultipleInstances>Multiple</MultipleInstances>
+        <Mandatory>Optional</Mandatory>
+        <Resources>
+            <Item ID="1">
+                <Name>start</Name>
+                <Operations>E</Operations>
+                <MultipleInstances>Single</MultipleInstances>
+                <Mandatory>Mandatory</Mandatory>
+                <Description>Start the process.</Description>
+            </Item>
+            <Item ID="2">
+                <Name>stop</Name>
+                <Operations>E</Operations>
+                <MultipleInstances>Single</MultipleInstances>
+                <Mandatory>Mandatory</Mandatory>
+                <Description>Stop the process.</Description>
+            </Item>
+            <Item ID="3">
+                <Name>state</Name>
+                <Operations>R</Operations>
+                <MultipleInstances>Single</MultipleInstances>
+                <Mandatory>Mandatory</Mandatory>
+                <Type>Integer</Type>
+                <RangeEnumeration>0-1</RangeEnumeration>
+                <Description>Get the state of the process.</Description>
+            </Item>
+            <Item ID="4">
+                <Name>emulate start</Name>
+                <Operations>E</Operations>
+                <MultipleInstances>Single</MultipleInstances>
+                <Mandatory>Mandatory</Mandatory>
+                <Description>Emulate the process start (log message).</Description>
+            </Item>
+            <Item ID="5">
+                <Name>emulate stop</Name>
+                <Operations>E</Operations>
+                <MultipleInstances>Single</MultipleInstances>
+                <Mandatory>Mandatory</Mandatory>
+                <Description>Emulate the process stop (log message).</Description>
+            </Item>
+            <Item ID="6">
+                <Name>emulate state</Name>
+                <Operations>R</Operations>
+                <MultipleInstances>Single</MultipleInstances>
+                <Mandatory>Mandatory</Mandatory>
+                <Type>Integer</Type>
+                <RangeEnumeration>0-1</RangeEnumeration>
+                <Description>Emulate getting the process state.</Description>
+            </Item>                        
+         </Resources>
+        <Description2></Description2>
+    </Object>
+</LWM2M>

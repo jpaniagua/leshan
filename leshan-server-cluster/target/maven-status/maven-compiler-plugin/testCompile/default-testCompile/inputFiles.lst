@@ -1,0 +1,5 @@
+/home/ivan/workspace/odsi/leshan/leshan-server-cluster/src/test/java/org/eclipse/leshan/server/cluster/serialization/DownlinkRequestSerDesTest.java
+/home/ivan/workspace/odsi/leshan/leshan-server-cluster/src/test/java/org/eclipse/leshan/server/cluster/serialization/ResponseSerDesTest.java
+/home/ivan/workspace/odsi/leshan/leshan-server-cluster/src/test/java/org/eclipse/leshan/server/cluster/serialization/RegistrationUpdateSerDesTest.java
+/home/ivan/workspace/odsi/leshan/leshan-server-cluster/src/test/java/org/eclipse/leshan/server/cluster/serialization/SecurityInfoSerDesTest.java
+/home/ivan/workspace/odsi/leshan/leshan-server-cluster/src/test/java/org/eclipse/leshan/server/cluster/serialization/RegistrationSerDesTest.java

@@ -1,0 +1,128 @@
+{
+  "innovalia_client": {
+    "servers": {
+      "0": {
+        "shortId": 123,
+        "lifetime": 20,
+        "defaultMinPeriod": 1,
+        "notifIfDisabled": true,
+        "binding": "U"
+      }
+    },
+    "security": {
+      "0": {
+        "uri": "coaps://localhost:50001",
+        "bootstrapServer": true,
+        "securityMode": "PSK",
+        "publicKeyOrId": [
+          105,
+          110,
+          110,
+          111
+        ],
+        "serverPublicKey": [],
+        "secretKey": [
+          -69,
+          -69,
+          -69
+        ],
+        "smsSecurityMode": "NO_SEC",
+        "smsBindingKeyParam": [],
+        "smsBindingKeySecret": [],
+        "serverSmsNumber": "",
+        "serverId": 111,
+        "clientOldOffTime": 1,
+        "bootstrapServerAccountTimeout": 0
+      },
+      "1": {
+        "uri": "coaps://localhost:5684",
+        "bootstrapServer": false,
+        "securityMode": "PSK",
+        "publicKeyOrId": [
+          105,
+          110,
+          110,
+          111
+        ],
+        "serverPublicKey": [],
+        "secretKey": [
+          -86,
+          -86,
+          -86
+        ],
+        "smsSecurityMode": "NO_SEC",
+        "smsBindingKeyParam": [],
+        "smsBindingKeySecret": [],
+        "serverSmsNumber": "",
+        "serverId": 123,
+        "clientOldOffTime": 1,
+        "bootstrapServerAccountTimeout": 0
+      }
+    }
+  },
+  "innovalia_client_ni": {
+    "servers": {
+      "0": {
+        "shortId": 123,
+        "lifetime": 20,
+        "defaultMinPeriod": 1,
+        "notifIfDisabled": true,
+        "binding": "U"
+      }
+    },
+    "security": {
+      "0": {
+        "uri": "coaps://localhost:50001",
+        "bootstrapServer": true,
+        "securityMode": "PSK",
+        "publicKeyOrId": [
+          105,
+          110,
+          110,
+          111,
+          110,
+          105
+        ],
+        "serverPublicKey": [],
+        "secretKey": [
+          -69,
+          -69,
+          -69
+        ],
+        "smsSecurityMode": "NO_SEC",
+        "smsBindingKeyParam": [],
+        "smsBindingKeySecret": [],
+        "serverSmsNumber": "",
+        "serverId": 111,
+        "clientOldOffTime": 1,
+        "bootstrapServerAccountTimeout": 0
+      },
+      "1": {
+        "uri": "coaps://192.168.15.159:5684",
+        "bootstrapServer": false,
+        "securityMode": "PSK",
+        "publicKeyOrId": [
+          105,
+          110,
+          110,
+          111,
+          110,
+          105
+        ],
+        "serverPublicKey": [],
+        "secretKey": [
+          -86,
+          -86,
+          -86
+        ],
+        "smsSecurityMode": "NO_SEC",
+        "smsBindingKeyParam": [],
+        "smsBindingKeySecret": [],
+        "serverSmsNumber": "",
+        "serverId": 123,
+        "clientOldOffTime": 1,
+        "bootstrapServerAccountTimeout": 0
+      }
+    }
+  }
+}

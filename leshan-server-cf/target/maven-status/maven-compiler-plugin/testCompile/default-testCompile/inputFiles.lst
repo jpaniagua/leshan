@@ -1,0 +1,6 @@
+/home/ivan/workspace/odsi/leshan/leshan-server-cf/src/test/java/org/eclipse/leshan/server/californium/impl/InMemoryRegistrationStoreTest.java
+/home/ivan/workspace/odsi/leshan/leshan-server-cf/src/test/java/org/eclipse/leshan/server/californium/LeshanBootstrapServerBuilderTest.java
+/home/ivan/workspace/odsi/leshan/leshan-server-cf/src/test/java/org/eclipse/leshan/server/californium/impl/CoapRequestBuilderTest.java
+/home/ivan/workspace/odsi/leshan/leshan-server-cf/src/test/java/org/eclipse/leshan/server/californium/impl/CaliforniumTestSupport.java
+/home/ivan/workspace/odsi/leshan/leshan-server-cf/src/test/java/org/eclipse/leshan/server/californium/LeshanServerBuilderTest.java
+/home/ivan/workspace/odsi/leshan/leshan-server-cf/src/test/java/org/eclipse/leshan/server/californium/impl/ObservationServiceTest.java

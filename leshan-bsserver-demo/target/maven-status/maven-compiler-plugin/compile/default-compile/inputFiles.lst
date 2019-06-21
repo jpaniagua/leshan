@@ -1,0 +1,7 @@
+/home/ivan/workspace/odsi/leshan/leshan-bsserver-demo/src/main/java/org/eclipse/leshan/server/bootstrap/demo/servlet/ServerServlet.java
+/home/ivan/workspace/odsi/leshan/leshan-bsserver-demo/src/main/java/org/eclipse/leshan/server/bootstrap/demo/BootstrapSecurityStoreImpl.java
+/home/ivan/workspace/odsi/leshan/leshan-bsserver-demo/src/main/java/org/eclipse/leshan/server/bootstrap/demo/ConfigurationChecker.java
+/home/ivan/workspace/odsi/leshan/leshan-bsserver-demo/src/main/java/org/eclipse/leshan/server/bootstrap/demo/json/SecuritySerializer.java
+/home/ivan/workspace/odsi/leshan/leshan-bsserver-demo/src/main/java/org/eclipse/leshan/server/bootstrap/demo/BootstrapStoreImpl.java
+/home/ivan/workspace/odsi/leshan/leshan-bsserver-demo/src/main/java/org/eclipse/leshan/server/bootstrap/demo/servlet/BootstrapServlet.java
+/home/ivan/workspace/odsi/leshan/leshan-bsserver-demo/src/main/java/org/eclipse/leshan/server/bootstrap/demo/LeshanBootstrapServerDemo.java
